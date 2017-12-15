@@ -1,4 +1,9 @@
 gongzuoqu zancunqu banbenku
+<<<<<<< Updated upstream
 first flash
 second flash
 ceshi stash
+=======
+no entering in banbenku,but in cached
+no entering in banbenku nor in cached
+>>>>>>> Stashed changes
